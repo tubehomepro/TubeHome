@@ -1,6 +1,6 @@
 # Tube Home
 
-[![Latest Release](https://img.shields.io/badge/Release-v1.0.2-blue.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest)
+[![Latest Release](https://img.shields.io/badge/Release-v1.0.2-blue.svg)](https://github.com/tubehomepro/TubeHome/releases/latest)
 [![Android](https://img.shields.io/badge/Android-8.0%2B-green.svg)](https://developer.android.com)
 [![Architecture](https://img.shields.io/badge/Architecture-Jetpack%20Compose-purple.svg)](https://developer.android.com/jetpack/compose)
 [![Privacy](https://img.shields.io/badge/Privacy-Zero%20Tracking-brightgreen.svg)](#privacy--permissions)
@@ -26,7 +26,7 @@ Get the official release from GitHub Releases:
 
 | Package | Version | Download |
 |---|---|---|
-| **Tube Home APK** | `v1.0.2` | [Download APK](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest/download/TubeHome_v102.apk) |
+| **Tube Home APK** | `v1.0.2` | [Download APK](https://github.com/tubehomepro/TubeHome/releases/latest/download/TubeHome_v102.apk) |
 | **Privacy Charter** | `2026` | [Download PDF](TubeHome_Policy.pdf) |
 
 > **Installation Note:** If Android displays an *Install from Unknown Sources* prompt, enable permission for your browser or file manager to complete the installation.
