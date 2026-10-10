@@ -52,7 +52,7 @@ Tube Home is engineered on the principle of data minimization:
 ## Community & Updates
 
 Join our community to stay updated with future releases, feature requests, and feedback:
-- **Telegram Channel:** [Join Community Channel](https://t.me/YOUR_TELEGRAM_LINK)
+- **Telegram Channel:** [Join Community Channel](https://t.me/+a82iZ_AaeQ81YjFl)
 
 ---
 
